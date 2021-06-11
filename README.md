@@ -1,7 +1,8 @@
   ### Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijaybhak?count_private=true )](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 KalidasVijaybhak/KalidasVijaybhak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
