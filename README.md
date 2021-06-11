@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @KalidasVijaybhak
-- 👀 I’m interested in Full stack Web Development ,App development ,Building CLI applications..
-- 🌱 I’m currently learning Css Kotlin Python JavaScript
--  
-- 📫 How to reach me -> Linkdin: http://linkedin.com/in/kalidas-vb-9706731a5
+-   Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+ 
 
 <!---
 KalidasVijaybhak/KalidasVijaybhak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
