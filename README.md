@@ -4,9 +4,9 @@
 [![Medium][medium-shield]][medium-url]
   
   <h1  align = "center" > Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
-  <br>
+   
   
-  ### :chart: <h2>Stats</h2>
+  :chart: **Stats**
   
 
  
