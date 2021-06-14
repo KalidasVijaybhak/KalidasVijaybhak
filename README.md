@@ -5,7 +5,7 @@
   ### Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <br>
   
-  ## :chart: GitHub Analytics
+  ### :chart: Stats
   
 
  
