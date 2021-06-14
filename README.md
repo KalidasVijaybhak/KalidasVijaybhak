@@ -12,5 +12,5 @@
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:linkedin.com/in/kalidas-vb-9706731a5
+[linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
 
