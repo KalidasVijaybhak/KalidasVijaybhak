@@ -1,5 +1,5 @@
-   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+   <a href="#">
+    <img src="https://media-exp3.licdn.com/dms/image/C5616AQFjrVa45ShPxQ/profile-displaybackgroundimage-shrink_350_1400/0/1623651186796?e=1629331200&v=beta&t=znPMnNQgDBqK8CsCsx0w6oMMD4HASJVDP_qQ592J85Q" alt="Logo" width="80" height="80">
   </a>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
