@@ -1,6 +1,10 @@
-  ### Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+   <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 [![LinkedIn][linkedin-shield]][linkedin-url]
- 
+
+  ### Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark)
  
  
