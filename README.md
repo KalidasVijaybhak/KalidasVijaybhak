@@ -25,4 +25,4 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
 <br>
-![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
