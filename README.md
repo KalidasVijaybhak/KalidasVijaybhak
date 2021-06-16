@@ -28,7 +28,7 @@
 [linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
 [medium-url]:https://kalidasvijaybhak.medium.com
 [instagram-url]:https://www.instagram.com/kalix_._/ 
-[stackoverflow-shield]: https://aleen42.github.io/badges/src/stackoverflow.svg
+[stackoverflow-shield]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow-url]:https://stackoverflow.com/users/14963123/kalidas-vijaybhak
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
