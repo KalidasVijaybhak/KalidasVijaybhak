@@ -26,7 +26,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dark" />
   </p>
 
- 
+ <p align="center">
+    <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=dark&hide_border=true"/>
+ </p>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
