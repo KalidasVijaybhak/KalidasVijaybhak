@@ -6,8 +6,8 @@
 [![Instagram][instagram-shield]][instagram-url]
   <h1  align = "center" > Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
    
- <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=Just+a+dope+coder"/>
+ <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"/>
     
     
 </div>
