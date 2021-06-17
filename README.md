@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dark&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
