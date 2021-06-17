@@ -23,11 +23,12 @@
  * **My GitHub Streaks** 
 
   <p align = "center"> 
+      <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dark" />
   </p>
 
- <p align="center">
-    <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/>
+  
+ 
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
