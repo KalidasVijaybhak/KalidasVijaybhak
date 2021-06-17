@@ -5,10 +5,10 @@
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Instagram][instagram-shield]][instagram-url]
   <h1  align = "center" > Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
-   
- <p align = "center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder">
- <p>
+ <p align = "center"> 
+<!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder">
+  </p>
  
  
  * **Stats**
