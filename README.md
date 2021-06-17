@@ -8,7 +8,7 @@
    
  <p align = "center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder">
- </p>
+ <p>
  
  
  * **Stats**
