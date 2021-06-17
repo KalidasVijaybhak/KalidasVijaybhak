@@ -23,7 +23,7 @@
  * **My GitHub Streaks** 
 
   <p align = "center"> 
-      <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/>
+<!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dark" />
   </p>
 
