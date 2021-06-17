@@ -24,7 +24,7 @@
   <summary><b>My GitHub Streaks 🔥</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true&theme=tokyonight&icon_color=6392DF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=tokyonight&icon_color=6392DF" />
 </details>
 
  
