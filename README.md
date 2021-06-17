@@ -22,9 +22,9 @@
  
  * **My GitHub Streaks** 
 
-  <br />
+  <p align = "center"> 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=tokyonight&icon_color=6392DF" />
- 
+  </p>
 
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
