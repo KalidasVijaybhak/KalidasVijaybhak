@@ -6,8 +6,7 @@
 [![Instagram][instagram-shield]][instagram-url]
   <h1  align = "center" > Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
    
-  
-  * **Stats**
+ * **Stats**
   
 
  
@@ -21,7 +20,7 @@
 </a>
 </p>
  
-  <summary><b>My GitHub Streaks 🔥</b></summary>
+ * **My GitHub Streaks** 
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=tokyonight&icon_color=6392DF" />
