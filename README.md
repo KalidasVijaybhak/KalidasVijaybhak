@@ -1,8 +1,8 @@
 
  ![banner](https://media-exp3.licdn.com/dms/image/C5616AQE0IaCXF94OIw/profile-displaybackgroundimage-shrink_350_1400/0/1623668260853?e=1629331200&v=beta&t=w1BOzJPpmNL3DEZPBR9YNkFVxYK1C6TQqpstVTi4aqU) 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Medium][medium-shield]][medium-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
+[![Medium][medium-shield]][medium-url]
 [![Instagram][instagram-shield]][instagram-url]
   <h1  align = "center" > Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
