@@ -3,6 +3,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Medium][medium-shield]][medium-url]
+[![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
   <h1  align = "center" > Hi, I’m  Kalidas VB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
@@ -43,5 +44,8 @@
 [instagram-url]:https://www.instagram.com/kalix_._/ 
 [stackoverflow-shield]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow-url]:https://stackoverflow.com/users/14963123/kalidas-vijaybhak
+ 
+[gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]:mailto::kalidasvb007@gmail.com
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
