@@ -46,6 +46,6 @@
 [stackoverflow-url]:https://stackoverflow.com/users/14963123/kalidas-vijaybhak
  
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]:mailto::kalidasvb007@gmail.com
+[gmail-url]: kalidasvb007@gmail.com
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
