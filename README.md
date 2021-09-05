@@ -32,7 +32,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dark" />
   </p>
 
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KalidasVijaybhak)] 
+
  
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
