@@ -1,5 +1,5 @@
 
- ![banner](https://media-exp3.licdn.com/dms/image/C5616AQE0IaCXF94OIw/profile-displaybackgroundimage-shrink_350_1400/0/1623668260853?e=1629331200&v=beta&t=w1BOzJPpmNL3DEZPBR9YNkFVxYK1C6TQqpstVTi4aqU) 
+ ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Medium][medium-shield]][medium-url]
