@@ -30,14 +30,7 @@
   <p align = "center"> 
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dark" />
-    <img height="180em" src="$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@KalidasVijaybhak/6e86e196-3bb4-42e3-8d50-9f82660dc708.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});"/>
+ 
    
 
   </p>
