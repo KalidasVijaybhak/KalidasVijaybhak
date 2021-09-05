@@ -30,7 +30,7 @@
   <p align = "center"> 
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dark" />
-    ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KalidasVijaybhak)
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KalidasVijaybhak)]
 
   </p>
 
