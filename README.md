@@ -5,7 +5,7 @@
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Upwork][upwork-shield]][upwork-url]
 [![Medium][medium-shield]][medium-url]
-[![Gmail][gmail-shield]][gmail-url]
+<!-- [![Gmail][gmail-shield]][gmail-url] -->
 [![Instagram][instagram-shield]][instagram-url]
 [![CodePen][codepen-shield]][codepen-url]
 
