@@ -59,7 +59,7 @@
 [leetcode-url]: https://leetcode.com/KalidasVijaybhak
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calidazvb@gmail.com
-[codepen-shiel]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
+[codepen-shield]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
 [codepen-url]: https://codepen.io/kalidasvijaybhak
  
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
