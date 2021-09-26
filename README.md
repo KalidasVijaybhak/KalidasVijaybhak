@@ -1,6 +1,6 @@
 
  ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
-[!Portfolio][portfolio-shield]][portfolio-url] 
+[!Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Medium][medium-shield]][medium-url]
@@ -64,7 +64,7 @@
 [codepen-url]: https://codepen.io/kalidasvijaybhak
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
 [hackerrank-shield]: https://img.shields.io/badge/HackerRank-%40kalidasvijayabh1-brightgreen
-[portfolio-shield]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
+[portfolio-shield]:https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
 [portfolio-url]: https://github.com/KalidasVijaybhak
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
