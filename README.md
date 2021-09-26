@@ -5,9 +5,9 @@
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Upwork][upwork-shield]][upwork-url]
 [![Medium][medium-shield]][medium-url]
-<!-- [![Gmail][gmail-shield]][gmail-url] -->
 [![Instagram][instagram-shield]][instagram-url]
 [![CodePen][codepen-shield]][codepen-url]
+<!-- [![Gmail][gmail-shield]][gmail-url] -->
 
   <h1  align = "center" > Hi, I’m  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
