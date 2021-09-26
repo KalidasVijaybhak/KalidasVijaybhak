@@ -59,4 +59,4 @@
 [gmail-url]: mailto:calidazvb@gmail.com
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
-![](https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-yellow)
+![](https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-yellow)(https://leetcode.com/KalidasVijaybhak)
