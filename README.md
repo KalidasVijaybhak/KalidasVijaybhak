@@ -53,7 +53,7 @@
 [instagram-url]:https://www.instagram.com/kalix_._/ 
 [stackoverflow-shield]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow-url]:https://stackoverflow.com/users/14963123/kalidas-vijaybhak
-[leetcode-shield]: https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-yellow
+[leetcode-shield]: https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-brightgreen
 [leetcode-url]: https://leetcode.com/KalidasVijaybhak
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calidazvb@gmail.com
