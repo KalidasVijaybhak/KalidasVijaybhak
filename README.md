@@ -7,7 +7,7 @@
 [![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![CodePen][codepen-shield]][codepen-url]
-[!PortFolio][portfolio-shield]][portfoliourl]
+[!PortFolio][portfolio-shield]][portfolio-url]
   <h1  align = "center" > Hi, I’m  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
@@ -65,7 +65,7 @@
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
 [hackerrank-shield]: https://img.shields.io/badge/HackerRank-%40kalidasvijayabh1-brightgreen
 [portfolio-shield]:https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
-[portfoliurl]:https://github.com/KalidasVijaybhak
+[portfolio-url]:https://github.com/KalidasVijaybhak
  
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
