@@ -5,7 +5,7 @@
 [![Medium][medium-shield]][medium-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
-![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+
   <h1  align = "center" > Hi, I’m  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
@@ -61,3 +61,6 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
  [![Leetcode][Leetcode-shield]][leetcode-url]
+<!--  ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) -->
+ 
+![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
