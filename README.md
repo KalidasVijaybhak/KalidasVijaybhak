@@ -3,7 +3,7 @@
 [![PortFolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
-[![Upwork][(https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)]][upwork-url]
+[![Upwork][upwork-shield]][upwork-url]
 [![Medium][medium-shield]][medium-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
@@ -68,7 +68,7 @@
 [portfolio-shield]:https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
 [portfolio-url]:https://github.com/KalidasVijaybhak
 [upwork-url]:https://github.com/KalidasVijaybhak
- 
+[upwork-shield]:https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white
 <br>
  
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
