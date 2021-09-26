@@ -60,12 +60,12 @@
 [gmail-url]: mailto:calidazvb@gmail.com
 [hackerrank-badge]:
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
- [hackerrank-shield]: https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-brightgreen
+ [hackerrank-shield]: https://img.shields.io/badge/HackerRank-%40kalidasvijayabh1-brightgreen
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
  ![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
  [![Leetcode][Leetcode-shield]][leetcode-url]
-  [![HackerRank][hackerrank-shield]][hackerrank-url]
+  ![HackerRank][hackerrank-shield]][hackerrank-url]
 <!--  ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) -->
  
 
