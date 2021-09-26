@@ -62,10 +62,10 @@
 [gmail-url]: mailto:calidazvb@gmail.com
 [codepen-shield]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
 [codepen-url]: https://codepen.io/kalidasvijaybhak
-[portfolio-shield]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
-[portfolio-url]: https://github.com/KalidasVijaybhak
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
 [hackerrank-shield]: https://img.shields.io/badge/HackerRank-%40kalidasvijayabh1-brightgreen
+[portfolio-shield]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
+[portfolio-url]: https://github.com/KalidasVijaybhak
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
 ![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
