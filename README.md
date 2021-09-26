@@ -1,6 +1,6 @@
 
  ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
-[!Portfolio][portfolio-shield]][portfolio-url]
+ [!Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Medium][medium-shield]][medium-url]
