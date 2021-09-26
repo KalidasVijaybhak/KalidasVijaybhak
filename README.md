@@ -1,13 +1,13 @@
 
  ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
-
+[![PortFolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 [![Medium][medium-shield]][medium-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![CodePen][codepen-shield]][codepen-url]
-[!PortFolio][portfolio-shield]][portfolio-url]
+
   <h1  align = "center" > Hi, I’m  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
