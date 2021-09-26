@@ -42,8 +42,7 @@
 
   </p>
  
- 
- [![Leetcode] [Leetcode-shield]][leetcode-url]
+  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -54,10 +53,10 @@
 [instagram-url]:https://www.instagram.com/kalix_._/ 
 [stackoverflow-shield]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow-url]:https://stackoverflow.com/users/14963123/kalidas-vijaybhak
-  [Leetcode-shield]: https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-yellow
+[leetcode-shield]: https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-yellow
 [leetcode-url]: https://leetcode.com/KalidasVijaybhak
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calidazvb@gmail.com
 <br>
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
-
+ ![Leetcode][Leetcode-shield]
