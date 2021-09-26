@@ -58,7 +58,7 @@
 [leetcode-url]: https://leetcode.com/KalidasVijaybhak
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calidazvb@gmail.com
-[hackerrank-badge]:
+ 
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
 [hackerrank-shield]: https://img.shields.io/badge/HackerRank-%40kalidasvijayabh1-brightgreen
 <br>
