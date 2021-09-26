@@ -5,6 +5,7 @@
 [![Medium][medium-shield]][medium-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
+[![CodePen][codepen-shield]][codepen-url]
 
   <h1  align = "center" > Hi, I’m  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
@@ -58,6 +59,8 @@
 [leetcode-url]: https://leetcode.com/KalidasVijaybhak
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calidazvb@gmail.com
+[codepen-shiel]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
+[codepen-url]: https://codepen.io/kalidasvijaybhak
  
 [hackerrank-url]:https://www.hackerrank.com/kalidasvijayabh1 
 [hackerrank-shield]: https://img.shields.io/badge/HackerRank-%40kalidasvijayabh1-brightgreen
