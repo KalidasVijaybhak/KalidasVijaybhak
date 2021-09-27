@@ -40,7 +40,7 @@
   </p>
 <p align = "center"> 
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=dracula" />
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&hide_border=true&theme=dracula" />
  
    
 
