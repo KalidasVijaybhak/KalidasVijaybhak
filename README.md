@@ -7,6 +7,7 @@
 [![Medium][medium-shield]][medium-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![CodePen][codepen-shield]][codepen-url]
+[![Twitter][twitter-shield]][twitter-url]
 <!-- [![Gmail][gmail-shield]][gmail-url] -->
 
   <h1  align = "center" > Hi, I’m  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
@@ -50,6 +51,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[twitter-shield]:https://img.shields.io/badge/Twitter-0096FF?style=for-the-badge&logo=twitter&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
