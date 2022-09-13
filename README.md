@@ -47,7 +47,7 @@
 
   </p>
  
-  [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=fng0ggvu2psbzbmygowtv1p0b&cover_image=true&theme=default&bar_color=03e229)]]
+  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -80,4 +80,3 @@
 [![HackerRank][hackerrank-shield]][hackerrank-url]
 <!--  ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) -->
  
-
