@@ -26,7 +26,7 @@
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&langs_count=8&hide_border=true&theme=dracula"/>
+  <img height="180em" src="https://leetcard.jacoblin.cool/kalidasvb"/>
 </a>
 </p>
  
