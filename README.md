@@ -76,7 +76,7 @@
  
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
 ![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
-[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.KalidasVijaybhak.cool/leetcode?site=cn)
+[![](https://leetcard.KalidasVijaybhak.cool/leetcode?site=cn)](https://leetcard.KalidasVijaybhak.cool/leetcode?site=cn)
 [![Leetcode][Leetcode-shield]][leetcode-url]
 [![HackerRank][hackerrank-shield]][hackerrank-url]
 <!--  ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) -->
