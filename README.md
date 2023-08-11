@@ -1,5 +1,5 @@
-
-![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
+![image](https://github.com/KalidasVijaybhak/KalidasVijaybhak/assets/70281178/1cef3d09-484b-4d8f-af8e-e91a7370a33c)
+ ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
 [![PortFolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
@@ -61,7 +61,7 @@
 [stackoverflow-shield]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow-url]:https://stackoverflow.com/users/14963123/kalidas-vijaybhak
 [leetcode-shield]: https://img.shields.io/badge/Leetcode-%40KalidasVijaybhak-brightgreen
-[leetcode-url]: [https://leetcode.com/KalidasVijaybhak](https://leetcode.com/KalidasVijaybhak/)
+[leetcode-url]: https://leetcode.com/KalidasVijaybhak/
 [gmail-shield]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:calidazvb@gmail.com
 [codepen-shield]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
@@ -76,6 +76,7 @@
  
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
 ![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
+[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/leetcode?site=cn)
 [![Leetcode][Leetcode-shield]][leetcode-url]
 [![HackerRank][hackerrank-shield]][hackerrank-url]
 <!--  ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) -->
