@@ -1,4 +1,4 @@
-![image](https://github.com/KalidasVijaybhak/KalidasVijaybhak/assets/70281178/1cef3d09-484b-4d8f-af8e-e91a7370a33c)
+
  ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
 [![PortFolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
