@@ -39,7 +39,7 @@
    
 
   </p>
-<p align = "center"> 
+<!-- <p align = "center"> 
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
   <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&hide_border=true&theme=dracula" />
  
@@ -47,7 +47,7 @@
 
   </p>
  
-  
+   -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
