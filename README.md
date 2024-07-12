@@ -9,34 +9,6 @@
  
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
   
- ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Medium][medium-shield]][medium-url]
-[![Twitter][twitter-shield]][twitter-url]
-
-<h1 align="center"> YO, It's Kalidas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<!-- * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
-
-* **Stats**
-
-<br>
-<p align="center">
-<a href="https://github.com/KalidasVijayBhak">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/>
-  <img height="170em"  src="https://leetcard.jacoblin.cool/KalidasVijaybhak"/>
-</a>
-</p>
-
-* **My GitHub Streaks**
-
-<p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dracula" />
-</p>
-
-<br>
-<br>
 
 ## 🛠 Skills
 
