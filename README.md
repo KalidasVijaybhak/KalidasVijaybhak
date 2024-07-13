@@ -45,12 +45,7 @@
 [linkedin-url]: https://www.linkedin.com/in/kalidas-vb-9706731a5/
 [medium-url]: https://kalidasvijaybhak.medium.com
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
-![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
-
- 
+  
  * **Stats**
   
 
