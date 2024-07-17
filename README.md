@@ -1,5 +1,6 @@
 
  ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
+[![Gmail][gmail-shield]][gmail-url] 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -83,6 +84,7 @@
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
 [medium-url]:https://kalidasvijaybhak.medium.com
+[gmail-shield]:kalidasvb007@gmail.com
 <br>
  
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
