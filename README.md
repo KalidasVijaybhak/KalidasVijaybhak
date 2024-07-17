@@ -84,7 +84,8 @@
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
 [medium-url]:https://kalidasvijaybhak.medium.com
-[gmail-shield]:kalidasvb007@gmail.com
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:kalidasvb007@gmail.com
 <br>
  
 ![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
