@@ -57,7 +57,7 @@ First commit after a long time
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/>
-  <img height="170em"  src="https://leetcard.jacoblin.cool/KalidasVijaybhak"/>
+  <img height="170em"  src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak"/>
 </a>
 </p>
  
