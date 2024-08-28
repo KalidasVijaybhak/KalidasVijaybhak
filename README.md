@@ -57,9 +57,9 @@ Best Coder of the Country
 <p align="center">
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/>
+<!--   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/> -->
   
-  <img height="220em"  src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
+  <img height="300em"  src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
  
 </a>
 </p>
@@ -70,7 +70,7 @@ Best Coder of the Country
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dracula" />
  
-   
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
   </p>
 <!-- <p align = "center"> 
