@@ -5,7 +5,7 @@ Best Coder of the Country
 [![Medium][medium-shield]][medium-url]
 [![Twitter][twitter-shield]][twitter-url]
 <!-- [![Gmail][gmail-shield]][gmail-url] -->
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <h1  align = "center" > YO, Its  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
