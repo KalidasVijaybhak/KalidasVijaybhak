@@ -48,7 +48,7 @@ Best Coder of the Country
 [medium-url]: https://kalidasvijaybhak.medium.com
 
   
- * **Stats**
+ * **Summary**
   
 
  
@@ -59,18 +59,18 @@ Best Coder of the Country
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/> -->
   
-  <img height="300em"  src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
+   <img height="170em" src="https://streak-stats.demolab.com/?user=KalidasVijaybhak&theme=dark)](https://git.io/streak-stats" />
  
 </a>
 </p>
  
- * **My GitHub Streaks** 
+ * **Let the numbers do the talking** 
 
   <p align = "center"> 
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
-  <img height="170em" src="https://streak-stats.demolab.com/?user=KalidasVijaybhak&theme=dark)](https://git.io/streak-stats" />
  
-
+ 
+<img height="400em"  src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
 
   </p>
 <!-- <p align = "center"> 
