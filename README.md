@@ -70,7 +70,9 @@ Best Coder of the Country
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
  
  
-<img height="400em"  src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
+<a href="https://leetcode.com/u/Kalidas_Vijaybhak/" target="_blank">
+    <img height="400em" src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
+</a>
 
   </p>
 <!-- <p align = "center"> 
