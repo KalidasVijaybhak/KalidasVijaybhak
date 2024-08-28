@@ -5,7 +5,6 @@ Best Coder of the Country
 [![Medium][medium-shield]][medium-url]
 [![Twitter][twitter-shield]][twitter-url]
 <!-- [![Gmail][gmail-shield]][gmail-url] -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <h1  align = "center" > YO, Its  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
  
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
@@ -57,7 +56,7 @@ Best Coder of the Country
 <p align="center">
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
-  <img height="170em" src="https://streak-stats.demolab.com?user=KalidasVijaybhak&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=KalidasVijaybhak&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=539)"/>
   
 
    
