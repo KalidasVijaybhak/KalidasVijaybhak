@@ -59,7 +59,8 @@ Best Coder of the Country
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/> -->
   
-   <img height="170em" src="https://streak-stats.demolab.com/?user=KalidasVijaybhak&theme=dark)](https://git.io/streak-stats" />
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=KalidasVijaybhak&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 </a>
 </p>
