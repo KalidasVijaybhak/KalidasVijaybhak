@@ -68,9 +68,9 @@ Best Coder of the Country
 
   <p align = "center"> 
 <!--       <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=KalidasVijayBhak&theme=github&hide_border=true"/> -->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalidasVijayBhak&hide_border=true&theme=dracula" />
+  <img height="170em" src="https://streak-stats.demolab.com/?user=KalidasVijaybhak&theme=dark)](https://git.io/streak-stats" />
  
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 
   </p>
 <!-- <p align = "center"> 
