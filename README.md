@@ -56,7 +56,7 @@ Best Coder of the Country
 <p align="center">
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
-  <img height="170em" src="https://streak-stats.demolab.com?user=KalidasVijaybhak&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=539)"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=KalidasVijaybhak&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=539&card_height=220)"/>
   
 
    
