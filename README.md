@@ -72,6 +72,7 @@ Best Coder of the Country
  
 <a href="https://leetcode.com/u/Kalidas_Vijaybhak/" target="_blank">
     <img height="400em" src="https://leetcard.jacoblin.cool/Kalidas_Vijaybhak?ext=heatmap"/>
+<!--  (https://kaggle-card.chienhsiang-hung.eu.org/api/svg?kalidasvijaybhak) -->
 </a>
 
   </p>
