@@ -53,11 +53,7 @@ Best Coder of the Country
 [linkedin-url]: https://www.linkedin.com/in/kalidas-vb-9706731a5/
 [medium-url]: https://kalidasvijaybhak.medium.com
 
-  
- * **Summary**
-  
 
- 
  
 <br>
 <p align="center">
