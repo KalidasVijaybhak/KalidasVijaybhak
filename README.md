@@ -47,7 +47,7 @@ Best Coder of the Country
 
 
 [twitter-shield]: https://img.shields.io/badge/Twitter-0096FF?style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: https://twitter1.com/home
+
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/kalidas-vb-9706731a5/
@@ -81,7 +81,7 @@ Best Coder of the Country
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalidasVijayBhak&layout=compact&count_private=true&show_icons=true&theme=dark)  -->
 [twitter-shield]:https://img.shields.io/badge/Twitter-0096FF?style=for-the-badge&logo=twitter&logoColor=white
- [twitter-url]:https://x.com/KalidasVivo
+[twitter-url]:https://x.com/KalidasVivo
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/kalidas-vb-9706731a5/
