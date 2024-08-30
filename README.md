@@ -6,14 +6,14 @@ Best Coder of the Country
 [![Twitter][twitter-shield]][twitter-url]
 <!-- [![Gmail][gmail-shield]][gmail-url] -->
   <h1  align = "center" > YO, Its  Kalidas  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>
- 
+   <p align = "center"> 
 <!--  * <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=F7F7F7&size=25&vCenter=true&width=800&lines=Just+a+dope+coder"> -->
 <a href="https://github.com/KalidasVijayBhak">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalidasVijayBhak&count_private=true&show_icons=true&theme=dark) -->
   <img height="220em" src="https://streak-stats.demolab.com?user=KalidasVijaybhak&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=539&card_height=220)"/>
   
 
-   
+   </p>
  
 </a>  
 
