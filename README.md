@@ -1,5 +1,6 @@
 Best Coder of the Country 
  ![banner](https://github.com/KalidasVijaybhak/KalidasVijaybhak/blob/main/1623668260853.jpg) 
+ 
 [![Gmail][gmail-shield]][gmail-url] 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
@@ -90,8 +91,7 @@ Best Coder of the Country
 [gmail-url]: mailto:kalidasvb007@gmail.com
 <br>
  
-![](https://komarev.com/ghpvc/?username=KalidasVijayBhak&color=brightgreen&style=flat-square&label=Visitors)
-![](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
- 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KalidasVijaybhak&theme=react-dark&hide_border=true&area=false&hide_title=true) 
 <!--  ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) -->
  
